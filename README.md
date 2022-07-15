@@ -10,6 +10,10 @@ This program also removes any unwanted characters from cells as specified by the
 - Type any characters to be removed from cells in the remove characters textbox.
 - Save a new cleaned csv file.
 
+## Example
+
+https://youtu.be/E5h88vPAaxs
+
 ## Authors
 
 - [@Bryce Moore](https://www.github.com/moorebrycek)
